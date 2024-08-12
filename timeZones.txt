@@ -1,0 +1,62 @@
+Baker Island, USA
+-12
+Midway, USA
+-11
+Honolulu, USA
+-10
+Adak, USA
+-9
+Juneau, USA
+-8
+Los Angeles, USA
+-7
+Salt Lake City, USA
+-6
+Houston, USA
+-5
+New York, USA
+-4
+Rio de Janeiro, Brazil
+-3
+Nuuk, Greenland
+-2
+Praia, Cape Verde
+-1
+Reykjavik, Iceland
+0
+London, UK
+1
+Paris, France
+2
+Moscow, Russia
+3
+Dubai, UAE
+4
+Tehran, Iran
+4.5
+Islamabad, Pakistan
+5
+New Dheli, India
+5.5
+Kathmandu, Nepal
+5.75
+Dhaka, Bangladesh
+6
+Naypyidaw, Myanmar
+6.5
+Bangkok, Thailand
+7
+Beijing, China
+8
+Tokyo, Japan
+9
+Sydney, Australia
+10
+Port Vila, Vanuatu
+11
+Auckland, New Zealand
+12
+Apia, Samoa
+13
+Kiritimati, Kiribati
+14
